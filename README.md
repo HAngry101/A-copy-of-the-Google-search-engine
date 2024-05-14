@@ -51,4 +51,5 @@ This project is implemented using the following technologies:
 ```bash
 git clone https://github.com/your-username/google-clone.git
 ```
+[Запись экрана от 2024-05-14 14-42-14.webm](https://github.com/HAngry101/A-copy-of-the-Google-search-engine/assets/168013853/8a0e7a02-3103-4eed-b54b-789098d1caa4)
 
