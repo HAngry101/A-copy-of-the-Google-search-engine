@@ -17,18 +17,10 @@ This project is implemented using the following technologies:
 
 - HTML/CSS/JavaScript
 
-## ⚙️ Installation and Usage
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/google-clone.git
-
-
----
 
 
 
+----
 
 
 
