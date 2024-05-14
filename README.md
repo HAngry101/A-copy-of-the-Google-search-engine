@@ -1,7 +1,6 @@
 # 🌐 Google Search Clone
 
-![14_may_2024_code2](https://github.com/HAngry101/A-copy-of-the-Google-search-engine/assets/168013853/cdb7f4c8-3fbf-4b15-b0c0-967fca74c97e)
-<img src="![14_may_2024_code2](https://github.com/HAngry101/A-copy-of-the-Google-search-engine/assets/168013853/cdb7f4c8-3fbf-4b15-b0c0-967fca74c97e)" alt="Alt text" width="300"/>
+## Demo: https://hangry101.github.io/A-copy-of-the-Google-search-engine/
 
 
 This project is an attempt to create a simple replica of a search engine similar to Google.
@@ -18,7 +17,7 @@ This project is implemented using the following technologies:
 
 - HTML/CSS/JavaScript
 
-
+![14_may_2024_code2](https://github.com/HAngry101/A-copy-of-the-Google-search-engine/assets/168013853/cdb7f4c8-3fbf-4b15-b0c0-967fca74c97e)
 
 
 ----
@@ -26,6 +25,9 @@ This project is implemented using the following technologies:
 
 
 # 🌐 Копия поисковика Гугл
+
+## Demo: https://hangry101.github.io/A-copy-of-the-Google-search-engine/
+
 
 Этот проект - попытка создать максимально простую копию поисковой системы, аналогичной Google.
 
