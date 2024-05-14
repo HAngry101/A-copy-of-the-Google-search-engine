@@ -1,8 +1,7 @@
-# A-copy-of-the-Google-search-engine
+# 🌐 Google Search Clone
 
 ![14_may_2024_code2](https://github.com/HAngry101/A-copy-of-the-Google-search-engine/assets/168013853/cdb7f4c8-3fbf-4b15-b0c0-967fca74c97e)
 
-# 🌐 Google Search Clone
 
 This project is an attempt to create a simple replica of a search engine similar to Google.
 
